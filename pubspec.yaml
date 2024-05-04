@@ -41,6 +41,10 @@ dependencies:
   stylish_bottom_bar: ^1.1.0
   intl: ^0.19.0
   flutter_svg: ^2.0.10+1
+  camera: ^0.10.5+9
+  qr_code_scanner: ^1.0.1
+  table_calendar: ^3.1.1
+  syncfusion_flutter_datepicker: ^25.1.42
 
 dev_dependencies:
   flutter_test:
